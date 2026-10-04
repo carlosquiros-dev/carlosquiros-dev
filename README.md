@@ -1,4 +1,4 @@
-                                                                                        # Hi there, I'm Carlos Quirós! 👋
+ Hi there, I'm Carlos Quirós! 👋
 
 ### 👨‍💻 Information Systems Engineering Student | Software Developer
 
